@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I have learned about how to attach hyperlinks and about semantic rules (ex. use em instead of i for italics). Learning about why programmers follow certain rules and considering how my code will appear in different browsers and operating systems has been the most interesting and challenging part of this course. Some of the easiest material for me has been the introductory formatting for HTML and some of the introductory javascript material. This material has been easy for me mainly because I completed a free intro to HTML and a intro to JavaScript course, so I had already put in time figuring out some of this material. The most helpful strategy I have found is to read through the forums and discussions on slack regarding specific challenges and questions. Even for material that I have passed and completed pretty quickly, I find it very useful to read about other people's strategies and thought process to solve problems.
